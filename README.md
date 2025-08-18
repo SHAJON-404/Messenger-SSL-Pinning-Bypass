@@ -1,29 +1,35 @@
-# Messenger-SSL-Pinning-Bypass
-Intercept Messenger network traffic on Android device
+# 🔐 Messenger-SSL-Pinning-Bypass
+📡 Intercept Messenger network traffic on Android device/emulator
 
-## Latest Tested App Version
-- Messenger App version: **517.0.0.41.109**
-- Architecture: **arm64/aarch64**, **x86**
+## 📌 Latest Tested App Version
+- 🎯 Messenger App version: **520.1.0.70.109**
+- 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**, **x86**, **x86_64**
 
-![main desktop](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/messenger.jpeg)
+![main flow](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/v520.jpg)
 
-![headers desktop](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/messenger2.png)
+![response](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/response.png)
 
-## Requirements
- 1. Rooted Android Phone
- 2. ProxyPin or Reqable App
+## 📱 Requirements for Android Device
+1. 🔓 Rooted Android Phone  
+2. 🛠️ ProxyPin or Reqable App  
 
-## Process
- 1. Replace patched `libcoldstart.so` with `/data/data/com.facebook.orca/lib-compressed/libcoldstart.so`
- 2. Run ProxyPin or Reqable app to capture traffic :)
+## 💻 Requirements for Emulator
+1. 🖥️ Windows PC with Reqable installed  
+2. 📲 Android emulator (Nox/LDPlayer)  
+3. ⚙️ Root access on emulator  
 
-## Get patched `libcoldstart.so` [paid]
+## 🔧 Process (Android Device)
+1. 🔄 Replace patched `libcoldstart.so` with `/data/data/com.facebook.orca/lib-compressed/libcoldstart.so`  
+2. 📊 Run ProxyPin or Reqable app to capture traffic  
+
+## ⚡ Process (Windows + Emulator)
+1. 🔌 Install Reqable on Windows and configure proxy settings  
+2. 🔄 Replace patched `libcoldstart.so` in emulator at `/data/data/com.facebook.orca/lib-compressed/libcoldstart.so`  
+3. 🚀 Start traffic interception in Reqable  
+
+## 🆘 Need Assistance? Contact Me
 <p align="left">
-  <a href="https://wa.me/+8801851786150" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=202124&color=25D366&logoWidth=20" alt="WhatsApp" style="border-radius: 50px;"/>
-  </a>
-  <br>
   <a href="https://t.me/DarknessKing999" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=202124&color=2CA5E0&logoWidth=20" alt="Telegram" style="border-radius: 50px;"/>
+    <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
