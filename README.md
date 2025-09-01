@@ -2,10 +2,10 @@
 📡 Intercept Messenger network traffic on Android device/emulator
 
 ## 📌 Latest Tested App Version
-- 🎯 Messenger App version: **524.0.0.0.39**
+- 🎯 Messenger App version: **523.0.0.12.109**
 - 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**, **x86**, **x86_64**
 
-![main flow](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/v520.jpg)
+![main flow](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/v523.jpg)
 
 ![response](https://raw.githubusercontent.com/SHAJON-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/response.png)
 
