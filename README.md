@@ -4,7 +4,7 @@
 ## 📌 Latest Tested App Version
 - 🎯 Messeger version: **546.0.0.35.70**
 - Architecture: **arm64-v8a, X86_64**
-- Contact me on telegram for any enquries [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
+- For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
 
@@ -37,7 +37,7 @@
  4. Use any packet capture tool to monitor Facebook network traffic.
 
 ## 📦 For Demo - Download Official APKs
-**📥 Download Messeger 500.0.0.57.50 from official sources:**
+**📥 Download Messenger 500.1.0.71.108 from official sources:**
 
 - **🔧 arm64-v8a (64-bit):** [https://www.apkmirror.com/apk/facebook-2/messenger/facebook-messenger-500-1-0-71-108-release/facebook-messenger-500-1-0-71-108-30-android-apk-download/](https://www.apkmirror.com/apk/facebook-2/messenger/facebook-messenger-500-1-0-71-108-release/facebook-messenger-500-1-0-71-108-30-android-apk-download/)
 
