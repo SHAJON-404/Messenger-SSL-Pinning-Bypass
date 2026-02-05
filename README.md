@@ -4,6 +4,7 @@
 ## 📌 Latest Tested App Version
 - 🎯 Messeger version: **546.0.0.35.70**
 - Architecture: **arm64-v8a, X86_64**
+- Contact me on telegram for any enquries [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
 
