@@ -2,7 +2,7 @@
 📡 Intercept Messeger network traffic on Android device
 
 ## 📌 Latest Tested App Version
-- 🎯 Messeger version: **546.0.0.35.70**
+- 🎯 Messeger version: **548.0.0.37.65**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
