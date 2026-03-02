@@ -1,14 +1,14 @@
 # 🔐 Messeger-SSL-Pinning-Bypass
 📡 Intercept Messeger network traffic on Android device
 
-## 📌 Latest Tested App Version
-- 🎯 Messeger version: **548.0.0.37.65**
+## 📌 Latest Bypassed & Tested App Version
+- 🎯 Messeger version: **549.0.0.18.60**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
 
-![Messenger Android Data](https://raw.githubusercontent.com/shajon-dev/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/v546.jpg)
+![Messenger Android Data](https://raw.githubusercontent.com/shajon-dev/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/v549.jpg)
 
 ![Messenger API Response](https://raw.githubusercontent.com/shajon-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/response.png)
 
@@ -51,3 +51,22 @@
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+
+---
+
+## 📜 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original author (S. SHAJON).
+- NonCommercial — You may not use this project for commercial or professional purposes.
+
+⚠ Commercial or professional use requires prior written permission from the author.
+
+🔗 Full License: https://creativecommons.org/licenses/by-nc/4.0/
