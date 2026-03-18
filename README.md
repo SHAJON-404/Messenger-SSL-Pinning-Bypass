@@ -2,12 +2,12 @@
 📡 Intercept Messenger network traffic on Android device
 
 ## 📌 Latest Bypassed & Tested App Version
-- 🎯 Messenger version: **549.0.0.18.60**
+- 🎯 Messenger version: **553.0.0.56.55**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Messenger Android Data](assets/v549.jpg)
+![Messenger Android Data](assets/v553.jpg)
 ![Messenger API Response](assets/response.png)
 
 ## ✅ Other Apps
