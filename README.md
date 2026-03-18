@@ -1,19 +1,16 @@
-# 🔐 Messeger-SSL-Pinning-Bypass
-📡 Intercept Messeger network traffic on Android device
+# 🔐 Messenger-SSL-Pinning-Bypass
+📡 Intercept Messenger network traffic on Android device
 
 ## 📌 Latest Bypassed & Tested App Version
-- 🎯 Messeger version: **549.0.0.18.60**
+- 🎯 Messenger version: **549.0.0.18.60**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
+![Messenger Android Data](assets/v549.jpg)
+![Messenger API Response](assets/response.png)
 
-![Messenger Android Data](https://raw.githubusercontent.com/shajon-dev/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/v549.jpg)
-
-![Messenger API Response](https://raw.githubusercontent.com/shajon-404/Messenger-SSL-Pinning-Bypass/refs/heads/main/image/response.png)
-
-
-## Other Apps
+## ✅ Other Apps
 1. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
 2. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
 3. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
@@ -43,7 +40,8 @@
 
 - **🔧 x86_64 (64-bit emulator):** [https://www.apkmirror.com/apk/facebook-2/messenger/facebook-messenger-500-1-0-71-108-release/facebook-messenger-500-1-0-71-108-11-android-apk-download/](https://www.apkmirror.com/apk/facebook-2/messenger/facebook-messenger-500-1-0-71-108-release/facebook-messenger-500-1-0-71-108-11-android-apk-download/)
 
-**📂 Patched `libcoldstart.so` files are available in the `so_files` folder**
+**📂 Free Patched `libcoldstart.so` files are available in the `libs/` folder**
+**📜 Consolidated login scripts are available in the `login.sh` file**
 
 ## Looking for leatest version patched `libcoldstart.so`? Contact me on Telegram
 <p align="left">
@@ -51,8 +49,6 @@
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
-
----
 
 ## 📜 License
 
