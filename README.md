@@ -2,13 +2,13 @@
 📡 Intercept Messenger network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **565.0.0.6.88**
+- App version: **568.0.0.26.89**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Messenger Android](assets/v565.jpg)
+![Messenger Android](assets/v568.jpg)
 
 ## ✅ Other Apps
 1. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.orca</code></td>
-      <td align="center">565.0.0.6.88</td>
+      <td align="center">568.0.0.26.89</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">No</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
